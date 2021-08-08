@@ -1,5 +1,4 @@
-# Project Title
-Covid19Malaysia
+# Covid19Malaysia by States
 
 ## Description
 This repo contains the script to pull the latest data from the Covid19 KKM website to display the total deaths in Malaysia
